@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container_one{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+                                   /*Card One Working Start*/
+                                   /*Card One Working Start*/
+                                   /*Card One Working Start*/
+                                   /*Card One Working Start*/
+                                   /*Card One Working Start*/
+                                   /*Card One Working Start*/
+.card_one{
+    width: 400px;
+    height:300px;
+    border-radius: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(rgba(56, 54, 54, 0.6), rgba(15, 15, 15, 0.6)), url(Images/img\ 1.jpg);
+    background-position: center;
+    background-size: 400px 300px;
+    background-repeat: no-repeat;
+}
+
+.card_one p {
+margin-top: 55%;
+margin-left: 12px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: bold;
+color: white;
+
+}
+.card_one button{
+    width: 372px;
+    height:40px;
+    margin-top: 2%;
+    margin-left: 12px;
+    background-color: #59E659;
+    border: 0px;
+    border-radius: 5px;
+}   
+.card_one button a{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: white;
+}
+.card_one:hover{
+    transform: scaleX(0.8);
+    transition: 0.2s;
+    overflow: hidden;
+}
+          
+                                   /*Card  Two Working Start*/
+                                   /*Card  Two orking Start*/
+                                   /*Card  Two orking Start*/
+                                   /*Card  Two Working Start*/
+                                   /*Card  Two Working Start*/
+
+
+.card_two{
+    width: 400px;
+    height:300px;
+    border-radius: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(rgba(56, 54, 54, 0.6), rgba(15, 15, 15, 0.6)), url(Images/img\ \ 2.jpg);
+    background-position: center;
+    background-size: 400px 300px;
+    background-repeat: no-repeat;
+    margin-left: 12px;
+}
+
+.card_two p {
+margin-top: 55%;
+margin-left: 12px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: bold;
+color: white;
+
+}
+.card_two button{
+    width: 372px;
+    height:40px;
+    margin-top: 2%;
+    margin-left: 12px;
+    background-color: #59E659;
+    border: 0px;
+    border-radius: 5px;
+}   
+.card_two button a{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: white;
+}
+.card_two:hover{
+    transform: scaleX(0.8);
+    transition: 0.2s;
+    overflow: hidden;
+}
+
+
+                                   /*Card  Three Working Start*/
+                                   /*Card  Three orking Start*/
+                                   /*Card  Three orking Start*/
+                                   /*Card  Three Working Start*/
+                                   /*Card  Three Working Start*/
+
+
+.card_three{
+    width: 400px;
+    height:300px;
+    border-radius: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(rgba(56, 54, 54, 0.6), rgba(15, 15, 15, 0.6)), url(Images/img\ 3.jpg);
+    background-position: center;
+    background-size: 400px 300px;
+    background-repeat: no-repeat;
+    margin-left: 12px;
+
+}
+
+.card_three p {
+margin-top: 55%;
+margin-left: 12px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: bold;
+color: white;
+
+}
+.card_three button{
+    width: 372px;
+    height:40px;
+    margin-top: 2%;
+    margin-left: 12px;
+    background-color: #59E659;
+    border: 0px;
+    border-radius: 5px;
+}   
+.card_three button a{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: white;
+}
+.card_three:hover{
+    transform: scaleX(0.8);
+    transition: 0.2s;
+    overflow: hidden;
+}
+
+
+
+
+                                   /*Saylani Guide  Working Start*/
+                                   /*Saylani Guide  Working Start*/
+                                   /*Saylani Guide  Working Start*/
+.container_two{
+    background-color: red;
+    height: 280px;
+    margin-top: 10px;
+    width: 80%;
+    margin-left: 10%;
+    background-image: linear-gradient(rgba(50, 154, 252, 0.8),rgb(34, 147, 240)), url(Images/img\ 4.png);
+}
+.container_two h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    padding-top: 5%;
+}
+
+.container_two  .type_area{
+    width: 550px;
+    height: 60px;
+    margin-left: 24%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    padding-left: 2%;
+    border: 0;
+    border-radius: 4px;
+    margin-top: 2%;
+    border: 1px solid white;
+    
+}
+
+.contact_btn{
+    background-color: white;
+    width: 550px;
+    height: 50px;
+    margin-left: 24%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    padding-left: 2%;
+    border: 0;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 1%;
+    padding-top: 22px;
+}
+.contact_btn a {
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: black;
+}
